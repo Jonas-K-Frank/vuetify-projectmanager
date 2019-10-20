@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-<h1> This is the homepage</h1>
+  <div class="dashboard">
+<h1 class="subheading gray--text"> This is the Dashboard</h1>
 
   </div>
 </template>
@@ -10,7 +10,7 @@
 
 
 export default {
-  name: 'home',
+  name: 'dashboard',
   components: {
     
   }

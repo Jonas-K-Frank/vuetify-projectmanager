@@ -3,8 +3,9 @@
     <Navbar />
 
     <v-content>
-      <router-view> </router-view>
+      <router-view class="mx-4 my-4"> </router-view>
     </v-content>
+
   </v-app>
 </template>
 

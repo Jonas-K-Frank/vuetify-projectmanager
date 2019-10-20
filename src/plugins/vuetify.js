@@ -12,5 +12,5 @@ export default new Vuetify({
     success: '#3cd1c2',
     info: '#ffaa2c',
     error: '#f83e70'
-  },
+  }
 });
