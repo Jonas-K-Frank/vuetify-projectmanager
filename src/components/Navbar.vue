@@ -14,8 +14,8 @@
             
         </v-toolbar>
 
-        <v-navigation-drawer v-model="drawer" class="primary" >
-            <p>Punkt nummer 1</p>
+        <v-navigation-drawer app v-model="drawer" class="primary" >
+            <p class="error">Punkt nummer 1</p>
         </v-navigation-drawer>
     </nav>
 </template>
